@@ -106,6 +106,7 @@
   },
   "devDependencies": {
     "@coinbase/wallet-sdk": "^3.3.0",
+    "@slide-web3/sdk": "^0.2.0",
     "@walletconnect/ethereum-provider": "^1.7.8",
     "ethers": "^5.6.5"
   },
